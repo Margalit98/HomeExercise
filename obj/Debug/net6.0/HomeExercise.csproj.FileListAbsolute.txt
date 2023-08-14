@@ -1,0 +1,14 @@
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\bin\Debug\net6.0\HomeExercise.exe
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\bin\Debug\net6.0\HomeExercise.deps.json
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\bin\Debug\net6.0\HomeExercise.runtimeconfig.json
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\bin\Debug\net6.0\HomeExercise.dll
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\bin\Debug\net6.0\HomeExercise.pdb
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.AssemblyInfoInputs.cache
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.AssemblyInfo.cs
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.csproj.CoreCompileInputs.cache
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.dll
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\refint\HomeExercise.dll
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.pdb
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\HomeExercise.genruntimeconfig.cache
+C:\Users\מרגלית מזרחי\Desktop\exercise\HomeExercise\HomeExercise\obj\Debug\net6.0\ref\HomeExercise.dll
